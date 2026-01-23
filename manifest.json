@@ -1,10 +1,9 @@
 {
-    "id": "linear-calendar-plugin",
+    "id": "linear-year-map",
     "name": "Linear Year Map",
     "version": "1.0.0",
     "minAppVersion": "0.15.0",
     "description": "A 12-month linear calendar to visualize note flow and clusters. This is based on the Linear Calendar concept from Nick Milo.",
-    "author": "Michael Wallick (with AI Code Generation)",
-    "isDesktopOnly": false,
-    "license": "MIT"
+    "author": "Michael Wallick",
+    "isDesktopOnly": false
 }
