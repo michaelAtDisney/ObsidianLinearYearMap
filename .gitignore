@@ -1,0 +1,11 @@
+# Obsidian Plugin Data
+data.json
+
+# System Files
+.DS_Store
+.idea/
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log
