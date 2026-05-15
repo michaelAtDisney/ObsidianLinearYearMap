@@ -55,10 +55,10 @@
     flex-shrink: 0;
 }
 
-.day-cell {
-    width: 32px !important;
-    min-width: 32px !important;
-    max-width: 32px !important;
+.linear-cal-view-container .day-cell {
+    width: 32px;
+    min-width: 32px;
+    max-width: 32px;
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -75,8 +75,8 @@
     background-color: var(--background-secondary-alt);
 }
 
-.day-cell.is-today {
-    color: var(--text-on-accent) !important;
+.linear-cal-view-container .day-cell.is-today {
+    color: var(--text-on-accent);
     font-weight: bold;
 }
 
